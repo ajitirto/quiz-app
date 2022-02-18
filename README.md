@@ -1,2 +1,2 @@
 # quiz-app
-Rekomendasi Tiktok 
+Rekomendasi Tiktok dan dari orang terdekat
